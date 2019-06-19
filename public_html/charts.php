@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Новомет - Кабинет поставщика</title>
+    <title>NOVOMET - SELPRO CHART</title>
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 
 </head>
